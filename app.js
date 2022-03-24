@@ -48,6 +48,6 @@ const App = {
 
 
 
-getUser()
+
 
 Vue.createApp(App).mount('#app')

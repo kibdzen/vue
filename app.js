@@ -49,5 +49,5 @@ const App = {
 
 
 getUser()
-
-Vue.createApp(App).mount('#app')
+// main app
+Vue.createApp(App).mount('#app') 

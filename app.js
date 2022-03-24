@@ -51,6 +51,3 @@ const App = {
 
 
 Vue.createApp(App).mount('#app')
-getUser()
-// main app
-Vue.createApp(App).mount('#app') 
